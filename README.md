@@ -7,6 +7,7 @@ Analyzing the company's end-to-end operation and identifying areas for improveme
 - [Tools](#Tools)
 - [Data Analysis](#Data-Analysis)
     - [Case study-1](#Case-study-1)
+    - [Case Study-2](#Case-study-2)
 - [Conclusion](#conclusion)
 
   
@@ -22,7 +23,7 @@ There are two datasets are divided into two case studies which are case Study-1 
 - MS PowerPoint for data report  Case_study-1[Click Here](https://docs.google.com/presentation/d/1lIU3IHR3TdHiEgupzFjf9t8o05kSmIlA/edit?usp=sharing&ouid=105843925605549140071&rtpof=true&sd=true),  Case_study-2[Click Here](https://docs.google.com/presentation/d/1_gu7NyvIhbpYheMsLG9yFIrc4a5e6UpZ/edit?usp=sharing&ouid=105843925605549140071&rtpof=true&sd=true)
 
 ### Data analysis
-- Case Study 1: Job Data Analysis
+#### Case Study 1: Job Data Analysis
 1.	Calculate the number of jobs reviewed per hour for each day in November 2020.
 
 
@@ -88,7 +89,7 @@ select actor_id, count(*) as dup
 from job_data
 group by actor_id;
 ```
-- Case Study 2: Investigating Metric Spike
+#### Case Study 2: Investigating Metric Spike
 1.	Calculate the weekly user engagement
 ![image](https://github.com/esmdsuhail/Operation-Metric-Analytics/assets/142283402/1958f55b-4d01-420a-a07b-87913830a05d)
 
