@@ -6,8 +6,8 @@ Analyzing the company's end-to-end operation and identifying areas for improveme
 - [Data](#Data-Source)
 - [Tools](#Tools)
 - [Data Analysis](#Data-Analysis)
-    - [Case study-1](#Case-study-1)
-    - [Case Study-2](#Case-study-2)
+    - [Case study-1](#Case-Study-1)
+    - [Case Study-2](#Case-Study-2)
 - [Conclusion](#conclusion)
 
   
